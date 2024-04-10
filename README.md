@@ -9,12 +9,13 @@ Tuples are accessed using their indices.<p>
 
 
 
-       <h1> Stacks
+       <h1> Stacks<h1>
       <h2>  Description of Stacks
 <p>A stack is a data structure there the addition of a new element and removal of an existing element that takes place at the same end known as "top of the stack.
 -Elements are added one by one.
 -Stacks use the LIFO -FILO concept meaning the first element to be added is the last one to be added and the last one to be added is the last one to be removed.
 -Stacks are ordered
+- Accessing an item at the middle would require you to remove all the items above it till you get to the item you want.
 - Stacks can contain duplicate values<p>
 
 
