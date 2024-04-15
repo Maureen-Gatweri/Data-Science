@@ -24,4 +24,5 @@ print(q)
 
 #Accesing elements using index
 print(q[2])
+print(q[0])
 
