@@ -16,6 +16,10 @@ Tuples are accessed using their indices.<p>
 -Stacks use the LIFO -FILO concept meaning the first element to be added is the last one to be added and the last one to be added is the last one to be removed.
 -Stacks are ordered
 - Accessing an item at the middle would require you to remove all the items above it till you get to the item you want.
+Stacks are not flexible because they take alot of time to access.
 - Stacks can contain duplicate values<p>
+
+<h1> Queues
+A queue is a data structure that allows us to store information in orderly manner
 
 
