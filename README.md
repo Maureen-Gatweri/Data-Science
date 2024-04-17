@@ -17,4 +17,8 @@ Stacks use the LIFO-FILO concept, meaning the first element to be added is the l
 - Accessing an item in the middle would require you to remove all the items above it till you get to the item you want.
 - Stacks can contain duplicate values
 
+  ##Queues
+  # Definition of queues
+  A queue is a data structure that used for managing and storing data in a specific order.
+
 
