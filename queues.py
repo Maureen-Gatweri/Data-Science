@@ -22,4 +22,7 @@ print(q.popleft())
 #queue after removing two elements
 print(q)
 
+#Accesing elements using index
+print(q[2])
+print(q[0])
 
