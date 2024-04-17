@@ -9,8 +9,12 @@ q.append("Nakuru")
 q.append("Baringo")
 q.append("Machakos")
 q.append("Kakamega")
+q.append("Chebarbar")
 print(q)
 print(type(q))
+print(q)
+print(q.pop())
+print(q)
 
 #removing elements from a queue
 print("\nElements dequeued from queue")
