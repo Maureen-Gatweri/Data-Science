@@ -24,14 +24,14 @@ Stacks use the LIFO-FILO concept, meaning the first element to be added is the l
 
 ##Binary search tree
 # Definition of a binary Search tree
-# It is a data structure used to store data in a sorted manner.
-# Each node in a Binary Search Tree has at most two children, a left child and a right child, with the left child containing values less than the parent node and the right child containing values greater than the parent node. 
-# Efficient searching: O(log n) time complexity for searching
-# Ordered structure: Elements are stored in sorted order, making it easy to find the next or previous element.
-# Dynamic insertion and deletion: Elements can be added or removed efficiently.
-# Space efficiency: BSTs store only the key values, making them space-efficient.
+* It is a data structure used to store data in a sorted manner.
+* Each node in a Binary Search Tree has at most two children, a left child and a right child, with the left child containing values less than the parent node and the right child containing values greater than the parent node. 
+* Efficient searching: O(log n) time complexity for searching
+* Ordered structure: Elements are stored in sorted order, making it easy to find the next or previous element.
+* Dynamic insertion and deletion: Elements can be added or removed efficiently.
+ Space efficiency: BSTs store only the key values, making them space-efficient.
 
-##  The code defines a `Node` class for creating new nodes in the binary tree. Each node has a value (`key`) and pointers to left and right child nodes.
+*  The code defines a `Node` class for creating new nodes in the binary tree. Each node has a value (`key`) and pointers to left and right child nodes.
 
 # The `insert` function is used to add new nodes to the tree. It takes the current root node and a key as arguments. If the tree is empty, it creates a new node. Otherwise, it recursively finds the correct position for the new node based on the comparison between the key and the existing nodes' values.
 
