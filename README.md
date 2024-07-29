@@ -31,7 +31,7 @@ Stacks use the LIFO-FILO concept, meaning the first element to be added is the l
 # Dynamic insertion and deletion: Elements can be added or removed efficiently.
 # Space efficiency: BSTs store only the key values, making them space-efficient.
 
-# The code defines a `Node` class for creating new nodes in the binary tree. Each node has a value (`key`) and pointers to left and right child nodes.
+##  The code defines a `Node` class for creating new nodes in the binary tree. Each node has a value (`key`) and pointers to left and right child nodes.
 
 # The `insert` function is used to add new nodes to the tree. It takes the current root node and a key as arguments. If the tree is empty, it creates a new node. Otherwise, it recursively finds the correct position for the new node based on the comparison between the key and the existing nodes' values.
 
